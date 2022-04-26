@@ -1,0 +1,5 @@
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.csproj.AssemblyReference.cache
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.AssemblyInfoInputs.cache
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.AssemblyInfo.cs
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.csproj.CoreCompileInputs.cache
