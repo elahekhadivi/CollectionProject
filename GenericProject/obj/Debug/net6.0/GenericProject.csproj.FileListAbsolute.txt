@@ -3,3 +3,13 @@ C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6
 C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.AssemblyInfoInputs.cache
 C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.AssemblyInfo.cs
 C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.csproj.CoreCompileInputs.cache
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\bin\Debug\net6.0\GenericProject.exe
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\bin\Debug\net6.0\GenericProject.deps.json
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\bin\Debug\net6.0\GenericProject.runtimeconfig.json
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\bin\Debug\net6.0\GenericProject.dll
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\bin\Debug\net6.0\ref\GenericProject.dll
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\bin\Debug\net6.0\GenericProject.pdb
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.dll
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\ref\GenericProject.dll
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.pdb
+C:\Users\Elahe Khadivi\source\repos\GenericProject\GenericProject\obj\Debug\net6.0\GenericProject.genruntimeconfig.cache
